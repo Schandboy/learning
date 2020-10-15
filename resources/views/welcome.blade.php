@@ -7,10 +7,10 @@
             <div class="row h-full">
                 <div class="col-12 col-lg-8 offset-lg-2 align-self-center">
 
-                    <h1 class="display-4 hidden-sm-down">BAHDCASTS</h1>
+                    <h1 class="display-4 hidden-sm-down">LMS</h1>
                     <h1 class="hidden-md-up">THE BEST WEB DEVELOPMENT SCREENCASTS ON THE INTERNET</h1>
                     <br>
-                    <p class="lead text-white fs-20 hidden-sm-down"><span class="fw-400">Bahdcasts</span> is an awesome web development learning<br>subscription based SaaS  application powered with Vuejs and <span class="mark-border">Laravel 5.5   </span>.</p>
+                    <p class="lead text-white fs-20 hidden-sm-down"><span class="fw-400">LMS</span> is an awesome web development learning<br>subscription based SaaS  application powered with Vuejs and <span class="mark-border">Laravel 5.5   </span>.</p>
 
                     <br><br><br>
 
